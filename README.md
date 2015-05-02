@@ -9,4 +9,10 @@ Useful oneliners, shortcuts and tips for VIM editor.
 
         vim -u NONE file.txt
 
+## Search and replace
 
+
+* Globally replace 'foo' with 'bar'
+
+
+        :%s/foo/bar/g
